@@ -1,0 +1,1 @@
+Given an array of integer , Find a pair (i,j), such that ai == aj  and i!=j and |i-j| is minimised
